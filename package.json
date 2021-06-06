@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Next.js typescript storybook app",
   "license": "MIT",
-  "repository": "github:user/repo",
+  "repository": "https://github.com/mwoodpatrick/nextstorybook.git",
   "keywords": [
     "nextjs",
     "typescript",

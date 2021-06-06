@@ -1,0 +1,23 @@
+{
+  "name": "nextstorybook",
+  "version": "1.0.0",
+  "description": "Next.js typescript storybook app",
+  "license": "MIT",
+  "repository": "github:user/repo",
+  "keywords": [
+    "nextjs",
+    "typescript",
+    "storybook",
+    "redux",
+    "graphql"
+  ],
+  "author": {
+    "name": "Mark L. Wood-Patrick",
+    "email": "mwoodpatrick@gmail.com",
+    "url": "https://wp.woodpatrick.xyz"
+  },
+  "engines": {
+    "node": ">=16.3.0",
+    "yarn": "^2.4.2"
+  }
+}

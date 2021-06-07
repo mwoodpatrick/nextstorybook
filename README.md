@@ -13,6 +13,8 @@ nvm use
 
 git init
 
+https://github.com/github/gitignore/blob/master/Node.gitignore
+
 yarn add next react react-dom
 
 mkdir pages
@@ -20,3 +22,7 @@ touch ./pages/index.tsx
 touch tsconfig.json
 
 yarn add --dev typescript @types/react @types/node
+
+Add storybook
+
+npx sb init
